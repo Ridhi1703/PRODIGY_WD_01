@@ -98,7 +98,7 @@ margin: auto;
     
 }
 .background{
-    background: rgb(0,0,0,0.7)url('assests/h1.png');
+    background: rgb(0,0,0,0.7)url('assests/h1.jpg');
     background-size: cover;
     background-blend-mode:difference;
 }
